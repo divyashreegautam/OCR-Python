@@ -1,0 +1,7 @@
+1) Install Poppler and Tesseract provided, after installation
+2) Search "env" in search bar, open edit the environment variable
+3) Click "Environment Variables"
+4) In System Variables, the window which is below, double click Path
+5) Now add Tesseract-OCR and Poppler's bin to Path environment variable
+
+If the provided .exe doesnt run for some reason, install python and its requirements
