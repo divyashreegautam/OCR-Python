@@ -1,6 +1,5 @@
 pdf2image
 cv2
 numpy
-os
 PIL
 pytesseract
